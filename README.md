@@ -2,7 +2,7 @@
 # Prueba Tecnica Bank ink
 
 ## Descripción
-Este proyecto es una aplicación desarrollada con Java Spring Boot. Las instrucciones a continuación detallan cómo empaquetar la aplicación utilizando Maven y desplegarla utilizando Docker Compose.
+Este proyecto es una aplicación desarrollada con Java Spring Boot y dase de datos PosgresSQL. Las instrucciones a continuación detallan cómo empaquetar la aplicación utilizando Maven y desplegarla utilizando Docker Compose.
 
 ## Requisitos Previos
 Antes de iniciar, asegúrate de tener instaladas las siguientes herramientas:
