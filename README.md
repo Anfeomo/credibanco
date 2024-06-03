@@ -1,5 +1,5 @@
-# credibanco
-# Proyecto Java Spring Boot
+
+# Prueba Tecnica Bank ink
 
 ## Descripción
 Este proyecto es una aplicación desarrollada con Java Spring Boot. Las instrucciones a continuación detallan cómo empaquetar la aplicación utilizando Maven y desplegarla utilizando Docker Compose.
